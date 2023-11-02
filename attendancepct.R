@@ -31,4 +31,4 @@ write_pathway <- paste("/Users/Teacher/Desktop/attendance_pct_above_", arg_list[
 
 write.csv(att_pct_report, write_pathway)
 
-##Example: Rscript attendancepct.R 2023-10-01 2023-10-31 90 generates list of 90+% attendance in October
+#Example: Rscript attendancepct.R 2023-10-01 2023-10-31 90 generates list of 90+% attendance in October
